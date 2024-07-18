@@ -1,0 +1,13 @@
+public class Practice{
+    public static void main(String args[]){
+        String college1 = "vit ap university";
+        String college2 = "SRM AP UNIVERSITY";
+        String college3 = "VelTech Chennai University";
+        String college4 = "LPU Punjab University";
+        System.out.println("All letters in capital : " + college1.toUpperCase());
+        System.out.println("All letters in small   : " + college1.toLowerCase());
+        System.out.println("All letters in capital : " + college1.toUpperCase());
+        System.out.println("All letters in small   : " + college1.toLowerCase());
+        
+    }
+}
